@@ -4,18 +4,6 @@
 
 **Variables per index card — Individual process allocated telemetry of the mind.**
 
-*(Glyph-Language)*
-## Glyph-Language
-
-The term *Glyph-Language* is used as a descriptive reference to the visual marks, symbols, and patterns contained within the collection.
-
-Individual portions of these illustrations may resemble or be interpreted as glyphs, sigils, or other symbolic forms when isolated, encircled, or extracted from their original context.
-
-Such interpretations are external to the primary intent of the archive. The project does not prescribe occult, mystical, or symbolic meanings to its illustrations.
-
-The patterns are documented as original handmade visual constructions, retaining their individual context within the larger collection.
-
-Interpretation remains separate from documentation.
 ## About
 
 Cognition Illustrations is an experimental visual archive documenting handmade index card illustrations, patterns, and symbolic constructions.
@@ -32,7 +20,6 @@ The archive is built around several conceptual elements:
 - **Neural Pathways:** Patterns, connections, structures, and pathways represented through handmade illustrations.
 - **Variables:** Individual elements, configurations, and variations recorded across index cards.
 - **Telemetry of the Mind:** A conceptual approach to documenting individual processes through visual records.
-- **Glyph-Language:** A developing visual vocabulary of marks, symbols, forms, and arrangements.
 
 ## Archive Structure
 
@@ -77,7 +64,7 @@ The archive is intended to grow organically through continued experimentation, i
 
 ## Classification
 
-**Project:** Cogniton Illustrations  
+**Project:** Cognition Illustrations  
 **Subtitle:** Neural Pathways  
 **Unit of documentation:** Individual index card  
 **Conceptual framework:** Variables per index card  
