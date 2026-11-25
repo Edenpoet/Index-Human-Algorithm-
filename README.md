@@ -211,5 +211,3 @@ Index-Human-Algorithm/
 └── documentation/
     └── methodology.md
 ```
-
-**Documentation note:** This draft reflects the collection count and process description available at the time it was prepared. Update the count, dates, and archive details as the project develops.
